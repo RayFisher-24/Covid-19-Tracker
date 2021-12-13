@@ -1,0 +1,192 @@
+0 Afghanistan
+1 Albania
+2 Algeria
+3 Andorra
+4 Angola
+5 Antigua and Barbuda
+6 Argentina
+7 Armenia
+8 Australia
+9 Austria
+10 Azerbaijan
+11 Bahamas
+12 Bahrain
+13 Bangladesh
+14 Barbados
+15 Belarus
+16 Belgium
+17 Belize
+18 Benin
+19 Bhutan
+20 Bolivia
+21 Bosnia and Herzegovina
+22 Botswana
+23 Brazil
+24 Brunei Darussalam
+25 Bulgaria
+26 Burkina Faso
+27 Burundi
+28 Cambodia
+29 Cameroon
+30 Canada
+31 Cape Verde
+32 Central African Republic
+33 Chad
+34 Chile
+35 China
+36 Colombia
+37 Comoros
+38 Congo (Brazzaville)
+39 Congo (Kinshasa)
+40 Costa Rica
+41 Croatia
+42 Cuba
+43 Cyprus
+44 Czech Republic
+45 Côte d'Ivoire
+46 Denmark
+47 Djibouti
+48 Dominica
+49 Dominican Republic
+50 Ecuador
+51 Egypt
+52 El Salvador
+53 Equatorial Guinea
+54 Eritrea
+55 Estonia
+56 Ethiopia
+57 Fiji
+58 Finland
+59 France
+60 Gabon
+61 Gambia
+62 Georgia
+63 Germany
+64 Ghana
+65 Greece
+66 Grenada
+67 Guatemala
+68 Guinea
+69 Guinea-Bissau
+70 Guyana
+71 Haiti
+72 Holy See (Vatican City State)
+73 Honduras
+74 Hungary
+75 Iceland
+76 India
+77 Indonesia
+78 Iran, Islamic Republic of
+79 Iraq
+80 Ireland
+81 Israel
+82 Italy
+83 Jamaica
+84 Japan
+85 Jordan
+86 Kazakhstan
+87 Kenya
+88 Kiribati
+89 Korea (South)
+90 Kuwait
+91 Kyrgyzstan
+92 Lao PDR
+93 Latvia
+94 Lebanon
+95 Lesotho
+96 Liberia
+97 Libya
+98 Liechtenstein
+99 Lithuania
+100 Luxembourg
+101 Macedonia, Republic of
+102 Madagascar
+103 Malawi
+104 Malaysia
+105 Maldives
+106 Mali
+107 Malta
+108 Marshall Islands
+109 Mauritania
+110 Mauritius
+111 Mexico
+112 Micronesia, Federated States of
+113 Moldova
+114 Monaco
+115 Mongolia
+116 Montenegro
+117 Morocco
+118 Mozambique
+119 Myanmar
+120 Namibia
+121 Nepal
+122 Netherlands
+123 New Zealand
+124 Nicaragua
+125 Niger
+126 Nigeria
+127 Norway
+128 Oman
+129 Pakistan
+130 Palau
+131 Palestinian Territory
+132 Panama
+133 Papua New Guinea
+134 Paraguay
+135 Peru
+136 Philippines
+137 Poland
+138 Portugal
+139 Qatar
+140 Republic of Kosovo
+141 Romania
+142 Russian Federation
+143 Rwanda
+144 Saint Kitts and Nevis
+145 Saint Lucia
+146 Saint Vincent and Grenadines
+147 Samoa
+148 San Marino
+149 Sao Tome and Principe
+150 Saudi Arabia
+151 Senegal
+152 Serbia
+153 Seychelles
+154 Sierra Leone
+155 Singapore
+156 Slovakia
+157 Slovenia
+158 Solomon Islands
+159 Somalia
+160 South Africa
+161 South Sudan
+162 Spain
+163 Sri Lanka
+164 Sudan
+165 Suriname
+166 Swaziland
+167 Sweden
+168 Switzerland
+169 Syrian Arab Republic (Syria)
+170 Taiwan, Republic of China
+171 Tajikistan
+172 Tanzania, United Republic of
+173 Thailand
+174 Timor-Leste
+175 Togo
+176 Tonga
+177 Trinidad and Tobago
+178 Tunisia
+179 Turkey
+180 Uganda
+181 Ukraine
+182 United Arab Emirates
+183 United Kingdom
+184 United States of America
+185 Uruguay
+186 Uzbekistan
+187 Vanuatu
+188 Venezuela (Bolivarian Republic)
+189 Viet Nam
+190 Yemen
+191 Zambia

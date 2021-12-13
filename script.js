@@ -1,9 +1,14 @@
-
 let n = window.prompt("Enter the Country Number");
+
+function searchEvent(){
+    let some=document.getElementById("search");
+}
+searchEvent();
 
 fetch('https://api.covid19api.com/summary')
     .then(res => res.json())
     .then(death2 => {
+
         let countryName = death2.Countries[n].Country;
         let newCase = death2.Countries[n].NewConfirmed;
         let totalCase = death2.Countries[n].TotalConfirmed;
@@ -28,5 +33,7 @@ fetch('https://api.covid19api.com/summary')
         console.log("Total Case: "+totalCase);
         console.log("New Death: "+newDeath);
         console.log("Total Death: "+totalDeath); */
+        
+        
     })
     .catch("Error")
